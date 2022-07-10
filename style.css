@@ -1,0 +1,12 @@
+.myimg {
+  height: 600px;
+  transform: rotate(25deg);
+  padding-left: 20%;
+}
+h1 {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
